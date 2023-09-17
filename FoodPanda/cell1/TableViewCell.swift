@@ -30,7 +30,7 @@ class TableViewCell: UITableViewCell {
         topBanner.layer.cornerRadius = 10
         topRight.layer.cornerRadius = 10
         buttomLeft.layer.cornerRadius = 10
-        buttomRight.layer.cornerRadius = 10 
+        buttomRight.layer.cornerRadius = 10
     }
     
 }
